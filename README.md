@@ -1,4 +1,5 @@
 # Shop_App
+My Flutter Shop App clone.
 Used in it :
 - Provider State Management.
 - RESTful API.
